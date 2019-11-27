@@ -1,0 +1,24 @@
+        Toturial for Lynda course-Meteor to run the project:
+    		
+
+
+		1.Install meteor(go to meteor.com)It is a big file so I 
+		did not share it.
+		2.Create the package using meteor create <project name>
+		3.Install react and react-dom
+		4.using material-ui(material.io)
+		5.Use yarn for installing a package
+		6.Install simpl-schema
+		7.Install react-render
+		8.Install react-router-dom
+		9.Install react-chartjs-2
+	
+
+
+
+
+
+
+
+
+		
